@@ -1,4 +1,4 @@
-# babel-webpack-react-ts-boilerplate
+# react-ts-mobx-boilerplate
 
 > Add MobX to [babel-webpack-react-ts-boilerplate](https://github.com/devheedoo/babel-webpack-react-ts-boilerplate)
 

@@ -92,7 +92,7 @@ $ yarn add -D mobx mobx-react mobx-react-devtools
 - .gitignore
 - README.md
 
-### References
+## References
 
 - [React 빌드(webpack) 환경 직접 구성하기(without CRA)](https://p-iknow.netlify.com/front-end/react-webpack-config)
 - [TypeScript With Babel: A Beautiful Marriage](https://iamturns.com/typescript-babel/)

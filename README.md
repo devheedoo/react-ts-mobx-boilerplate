@@ -9,6 +9,7 @@
 - Webpack
 - React
 - TypeScript
+- MobX
 
 ## Install
 
@@ -34,7 +35,7 @@ $ yarn start
 ### 1. Cloning empty repository from GitHub
 
 ```bash
-$ git clone https://github.com/devheedoo/babel-webpack-react-ts-boilerplate.git
+$ git clone https://github.com/devheedoo/react-ts-mobx-boilerplate.git
 ```
 
 ### 2. Initialize with Yarn
